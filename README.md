@@ -1,4 +1,4 @@
-# admin
+# Amazon Clone
 
 > My groundbreaking Nuxt.js project
 
